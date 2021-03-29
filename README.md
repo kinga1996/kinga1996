@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kinga1996
+- 🌱 I’m currently learning ReactJS and also HTML, CSS, JavaScript.
+- 👀 I'm looking for a job as Intern or Junior Front-end Developer.
+- 🏠 I am looking for a job in Warsaw.
+- 💻 I am currently a student -> master degree, IT Science, UKSW.
+- 📫 How to reach me -> kingakalisz@gmail.com.
